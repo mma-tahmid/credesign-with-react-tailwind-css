@@ -1,0 +1,15 @@
+.custom-navbar-text li{
+color: var(--Black, #101010);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 27.2px; 
+} 
+
+.navbar-button-text{
+color: #FFF;
+font-size: 21px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; 
+}
