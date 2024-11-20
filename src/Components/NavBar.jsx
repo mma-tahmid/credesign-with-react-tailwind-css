@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
 
         <>
-            <div className='bg-[red] py-[25px]'>
+            <div className='bg-[#fff] py-[25px]'>
 
                 <div className="main-container">
 
