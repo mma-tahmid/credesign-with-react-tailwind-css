@@ -7,6 +7,10 @@ import AboutSection from './Components/AboutSection'
 import ServiceSection from './Components/ServiceSection'
 import ResumeSection from './Components/ResumeSection'
 import PortfolioSection from './Components/PortfolioSection'
+import TestimonialSection from './Components/TestimonialSection'
+import PartnerSection from './Components/PartnerSection'
+import BlogSection from './Components/BlogSection'
+import ContactSection from './Components/ContactSection'
 
 function App() {
 
@@ -23,6 +27,10 @@ function App() {
         <ServiceSection />
         <ResumeSection />
         <PortfolioSection />
+        <TestimonialSection />
+        <PartnerSection />
+        <BlogSection />
+        <ContactSection />
 
       </BrowserRouter>
 
